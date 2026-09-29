@@ -31,7 +31,6 @@
 
 [![BiliBili](https://img.shields.io/badge/-启动台LaunchPad-00a1d6?style=flat-square&logo=bilibili&logoColor=fff)](https://space.bilibili.com/392383363)
 [![X](https://img.shields.io/badge/-launchpad001-000000?style=flat-square&logo=X&logoColor=white)](https://x.com/launchpad001)
-[![Bluesky](https://img.shields.io/badge/-launchpadx.top-1185FE?style=flat-square&logo=bluesky&logoColor=white)](https://bsky.app/profile/launchpadx.top)
 [![Telegram Channel](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.swo.moe%2Fstats%2Ftelegram%2Fjackzeng6666_channel&query=count&color=2CA5E0&label=Telegram%20Channel&labelColor=282c34&logo=telegram&suffix=+subscribers&cacheSeconds=3600)](https://t.me/jackzeng6666_channel)
 [![Telegram Group](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.swo.moe%2Fstats%2Ftelegram%2Fjackzeng6666_group&query=count&color=2CA5E0&label=Telegram%20Group&labelColor=282c34&logo=telegram&suffix=+members&cacheSeconds=3600)](https://t.me/jackzeng6666_group)
 
