@@ -52,6 +52,16 @@
 ![Raspberry Pi 4](https://img.shields.io/badge/Raspberry%20Pi%204-C51A4A?style=flat-square&logo=raspberrypi&logoColor=white)
 ![X86 Server](https://img.shields.io/badge/X86%20Server-121011?style=flat-square&logo=serverfault&logoColor=ffffff)
 
+
+## ❤️ Health
+
+![Heart Rate](https://img.shields.io/endpoint?url=https%3A%2F%2Fapi.launchpadx.top%2Fapi%2Fv3%2Ffn%2Flp%2Fhealth-badge%3Fmetric%3Dhr&style=flat-square&cacheSeconds=300)
+![SpO2](https://img.shields.io/endpoint?url=https%3A%2F%2Fapi.launchpadx.top%2Fapi%2Fv3%2Ffn%2Flp%2Fhealth-badge%3Fmetric%3Dspo2&style=flat-square&cacheSeconds=300)
+![HRV](https://img.shields.io/endpoint?url=https%3A%2F%2Fapi.launchpadx.top%2Fapi%2Fv3%2Ffn%2Flp%2Fhealth-badge%3Fmetric%3Dhrv&style=flat-square&cacheSeconds=300)
+![Stress](https://img.shields.io/endpoint?url=https%3A%2F%2Fapi.launchpadx.top%2Fapi%2Fv3%2Ffn%2Flp%2Fhealth-badge%3Fmetric%3Dstress&style=flat-square&cacheSeconds=300)
+![Steps](https://img.shields.io/endpoint?url=https%3A%2F%2Fapi.launchpadx.top%2Fapi%2Fv3%2Ffn%2Flp%2Fhealth-badge%3Fmetric%3Dsteps&style=flat-square&cacheSeconds=300)
+![Sleep](https://img.shields.io/endpoint?url=https%3A%2F%2Fapi.launchpadx.top%2Fapi%2Fv3%2Ffn%2Flp%2Fhealth-badge%3Fmetric%3Dsleep&style=flat-square&cacheSeconds=300)
+
 ## 💰 Buy me a Coffee
 
 ✨ If you like my projects, consider buying me a coffee via [sponsor](https://launchpadx.top/en/sponsor).
