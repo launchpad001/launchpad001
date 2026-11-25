@@ -1,4 +1,4 @@
-<img align="right" src="https://github-readme-stats-vc.vercel.app/api?username=launchpad001&show_icons=true&hide_border=true&icon_color=000&title_color=000&include_all_commits_disable=false&custom_title=LaunchPad&count_private=true">
+<!--<img align="right" src="https://github-readme-stats-vc.vercel.app/api?username=launchpad001&show_icons=true&hide_border=true&icon_color=000&title_color=000&include_all_commits_disable=false&custom_title=LaunchPad&count_private=true">-->
 <!--<img align="right" src="/github-metrics.svg">-->
 
 # LaunchPad [![wakatime](https://wakatime.com/badge/user/6782aa20-64c9-4331-ad13-3c34e915703d.svg)](https://wakatime.com/@launchpad001)
