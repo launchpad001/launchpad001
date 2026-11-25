@@ -31,8 +31,8 @@
 
 [![BiliBili](https://img.shields.io/badge/-启动台LaunchPad-00a1d6?style=flat-square&logo=bilibili&logoColor=fff)](https://space.bilibili.com/392383363)
 [![X](https://img.shields.io/badge/-launchpad001-000000?style=flat-square&logo=X&logoColor=white)](https://x.com/launchpad001)
-[![Telegram Channel](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.swo.moe%2Fstats%2Ftelegram%2Fjackzeng6666_channel&query=count&color=2CA5E0&label=Telegram%20Channel&labelColor=282c34&logo=telegram&suffix=+subscribers&cacheSeconds=3600)](https://t.me/jackzeng6666_channel)
-[![Telegram Group](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.swo.moe%2Fstats%2Ftelegram%2Fjackzeng6666_group&query=count&color=2CA5E0&label=Telegram%20Group&labelColor=282c34&logo=telegram&suffix=+members&cacheSeconds=3600)](https://t.me/jackzeng6666_group)
+[![Telegram Channel](https://img.shields.io/badge/dynamic/json?style=flat-square&url=https%3A%2F%2Fapi.swo.moe%2Fstats%2Ftelegram%2Fjackzeng6666_channel&query=count&color=2CA5E0&label=Telegram%20Channel&labelColor=282c34&logo=telegram&suffix=+subscribers&cacheSeconds=3600)](https://t.me/jackzeng6666_channel)
+[![Telegram Group](https://img.shields.io/badge/dynamic/json?style=flat-square&url=https%3A%2F%2Fapi.swo.moe%2Fstats%2Ftelegram%2Fjackzeng6666_group&query=count&color=2CA5E0&label=Telegram%20Group&labelColor=282c34&logo=telegram&suffix=+members&cacheSeconds=3600)](https://t.me/jackzeng6666_group)
 
 ## 💻 Working Environment
 
@@ -55,12 +55,14 @@
 
 ## ❤️ Health
 
-![Heart Rate](https://img.shields.io/endpoint?url=https%3A%2F%2Fapi.launchpadx.top%2Fapi%2Fv3%2Ffn%2Flp%2Fhealth-badge%3Fmetric%3Dhr&style=flat-square&cacheSeconds=300)
-![SpO2](https://img.shields.io/endpoint?url=https%3A%2F%2Fapi.launchpadx.top%2Fapi%2Fv3%2Ffn%2Flp%2Fhealth-badge%3Fmetric%3Dspo2&style=flat-square&cacheSeconds=300)
-![HRV](https://img.shields.io/endpoint?url=https%3A%2F%2Fapi.launchpadx.top%2Fapi%2Fv3%2Ffn%2Flp%2Fhealth-badge%3Fmetric%3Dhrv&style=flat-square&cacheSeconds=300)
-![Stress](https://img.shields.io/endpoint?url=https%3A%2F%2Fapi.launchpadx.top%2Fapi%2Fv3%2Ffn%2Flp%2Fhealth-badge%3Fmetric%3Dstress&style=flat-square&cacheSeconds=300)
-![Steps](https://img.shields.io/endpoint?url=https%3A%2F%2Fapi.launchpadx.top%2Fapi%2Fv3%2Ffn%2Flp%2Fhealth-badge%3Fmetric%3Dsteps&style=flat-square&cacheSeconds=300)
-![Sleep](https://img.shields.io/endpoint?url=https%3A%2F%2Fapi.launchpadx.top%2Fapi%2Fv3%2Ffn%2Flp%2Fhealth-badge%3Fmetric%3Dsleep&style=flat-square&cacheSeconds=300)
+[![Heart Rate](https://img.shields.io/endpoint?url=https%3A%2F%2Fapi.launchpadx.top%2Fapi%2Fv3%2Ffn%2Flp%2Fhealth-badge%3Fmetric%3Dhr&style=flat-square&cacheSeconds=300)](https://launchpadx.top/en/status)
+[![SpO2](https://img.shields.io/endpoint?url=https%3A%2F%2Fapi.launchpadx.top%2Fapi%2Fv3%2Ffn%2Flp%2Fhealth-badge%3Fmetric%3Dspo2&style=flat-square&cacheSeconds=300)](https://launchpadx.top/en/status)
+[![HRV](https://img.shields.io/endpoint?url=https%3A%2F%2Fapi.launchpadx.top%2Fapi%2Fv3%2Ffn%2Flp%2Fhealth-badge%3Fmetric%3Dhrv&style=flat-square&cacheSeconds=300)](https://launchpadx.top/en/status)
+[![Stress](https://img.shields.io/endpoint?url=https%3A%2F%2Fapi.launchpadx.top%2Fapi%2Fv3%2Ffn%2Flp%2Fhealth-badge%3Fmetric%3Dstress&style=flat-square&cacheSeconds=300)](https://launchpadx.top/en/status)
+[![Steps](https://img.shields.io/endpoint?url=https%3A%2F%2Fapi.launchpadx.top%2Fapi%2Fv3%2Ffn%2Flp%2Fhealth-badge%3Fmetric%3Dsteps&style=flat-square&cacheSeconds=300)](https://launchpadx.top/en/status)
+[![Sleep](https://img.shields.io/endpoint?url=https%3A%2F%2Fapi.launchpadx.top%2Fapi%2Fv3%2Ffn%2Flp%2Fhealth-badge%3Fmetric%3Dsleep&style=flat-square&cacheSeconds=300)](https://launchpadx.top/en/status)
+
+*Click on any badge to see more data. Health data is collected and synced by Apple Watch Series 12. For reference only—not medical advice. Due to Apple platform limits, sync may be delayed.*
 
 ## 💰 Buy me a Coffee
 
