@@ -36,8 +36,9 @@
 
 ## 💻 Working Environment
 
-![macOS Tahoe 26.3](https://img.shields.io/badge/macOS%20Tahoe%2026.3-000000?style=flat-square&logo=macos&logoColor=ffffff)
-![iOS 27.0 Beta 3](https://img.shields.io/badge/iOS%2027.0%20Beta%203-000000?style=flat-square&logo=iOS&logoColor=ffffff)
+![macOS Tahoe 26.7.1](https://img.shields.io/badge/macOS%20Tahoe%2026.7.1-000000?style=flat-square&logo=macos&logoColor=ffffff)
+![iOS 27.3 Beta 1](https://img.shields.io/badge/iOS%2027.3%20Beta%201-000000?style=flat-square&logo=iOS&logoColor=ffffff)
+![watchOS 27.2.1](https://img.shields.io/badge/watchOS%2027.2.1-000000?style=flat-square&logo=apple&logoColor=ffffff)
 ![Ubuntu 24.04](https://img.shields.io/badge/Ubuntu%2024.04-dd4814?style=flat-square&logo=ubuntu&logoColor=ffffff)
 ![Debian 13](https://img.shields.io/badge/Debian%2013-A81D33?style=flat-square&logo=debian&logoColor=ffffff)
 ![Proxmox VE 9](https://img.shields.io/badge/Proxmox%20VE%209-E74C3C?style=flat-square&logo=proxmox&logoColor=ffffff)
@@ -47,6 +48,7 @@
 
 ![MacBook Pro](https://img.shields.io/badge/MacBook%20Pro-000000?style=flat-square&logo=apple&logoColor=ffffff)
 ![iPhone 16 Pro Max](https://img.shields.io/badge/iPhone%2016%20Pro%20Max-000000?style=flat-square&logo=apple&logoColor=ffffff)
+![Apple Watch Series 12](https://img.shields.io/badge/Apple%20Watch%20Series%2012-000000?style=flat-square&logo=apple&logoColor=ffffff)
 ![Raspberry Pi 4](https://img.shields.io/badge/Raspberry%20Pi%204-C51A4A?style=flat-square&logo=raspberrypi&logoColor=white)
 ![X86 Server](https://img.shields.io/badge/X86%20Server-121011?style=flat-square&logo=serverfault&logoColor=ffffff)
 
